@@ -10,7 +10,7 @@ I am:
 
 ◻️ Seeking challenging opportunities to develop innovative and impactful software solutions that exceed expectations.
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=KrzysztofPardel&show_icons=true&theme=tokyonight">
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&hide_progress=true">
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&layout=donut">
 
 <h1> Languages and 🛠 I use:</h1>
 <p style="display:block;">
