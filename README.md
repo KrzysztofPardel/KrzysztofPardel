@@ -9,8 +9,11 @@ I am:
 ◻️ Committed to delivering high-quality code and constantly improving my skills through continuous learning,
 
 ◻️ Seeking challenging opportunities to develop innovative and impactful software solutions that exceed expectations.
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=KrzysztofPardel&show_icons=true&theme=tokyonight">
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&layout=donut">
+
+---
+
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&layout=">
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=KrzysztofPardel&show_icons=true&theme=cobalt">
 
 <h1> Languages and 🛠 I use:</h1>
 <p style="display:block;">
