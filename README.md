@@ -14,7 +14,7 @@ I am:
 
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&layout=">
 <img width='47%' src="https://github-readme-stats.vercel.app/api?username=KrzysztofPardel&show_icons=true&theme=cobalt">
-
+<br><br><br><br><br><br><br><br><br>
 <h1> Languages and 🛠 I use:</h1>
 <p style="display:block;">
                 <img alt="JavaScript" style="padding-right:10px;" width="40px" src="img/JS.jpg">
