@@ -13,8 +13,7 @@ I am:
 ---
 
 <img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&layout=">
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=KrzysztofPardel&show_icons=true&theme=cobalt">
-
+<img width='47%' src="https://github-readme-stats.vercel.app/api?username=KrzysztofPardel&show_icons=true&theme=cobalt">
 
 <h1> Languages and 🛠 I use:</h1>
 <p style="display:block;">
