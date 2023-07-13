@@ -18,16 +18,16 @@ I am:
 <h1> Languages and 🛠 I use:</h1>
 <p style="display:block;">
                 <img alt="JavaScript" style="padding-right:10px;" width="40px" src="img/JS.jpg">
-                <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/React.png" >
-                <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/HTML5.png" >
-                <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/CSS3.png">
-                <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/SASS.png">
-                <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/TailwindCSS.png">
-                <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/Firebase.png">
-                <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/GIT.png">
-                <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/Vite.png">
-                <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/WebPack.png">
-                <img  alt="JavaScript" style="padding-right:10px;" width="40px" src="img/Affinity.png">
+                <img  alt="React" align="left" style="padding-right:10px;" width="40px" src="img/React.png" >
+                <img  alt="HTML5" align="left" style="padding-right:10px;" width="40px" src="img/HTML5.png" >
+                <img  alt="CSS3" align="left" style="padding-right:10px;" width="40px" src="img/CSS3.png">
+                <img  alt="SASS" align="left" style="padding-right:10px;" width="40px" src="img/SASS.png">
+                <img  alt="TailwindCSS" align="left" style="padding-right:10px;" width="40px" src="img/TailwindCSS.png">
+                <img  alt="Firebase" align="left" style="padding-right:10px;" width="40px" src="img/Firebase.png">
+                <img  alt="GIT" align="left" style="padding-right:10px;" width="40px" src="img/GIT.png">
+                <img  alt="Vite" align="left" style="padding-right:10px;" width="40px" src="img/Vite.png">
+                <img  alt="WebPack" align="left" style="padding-right:10px;" width="40px" src="img/WebPack.png">
+                <img  alt="Affinity" style="padding-right:10px;" width="40px" src="img/Affinity.png">
 </p>
 
 <h1> New Languages and 🛠 I'm in progress of learning:</h1>
