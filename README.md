@@ -29,9 +29,7 @@ I am:
                 <img  alt="WebPack" align="left" style="padding-right:10px;" width="40px" src="img/WebPack.png">
                 <img  alt="Affinity" style="padding-right:10px;" width="40px" src="img/Affinity.png">
 </p>
-
 <h1> New Languages and 🛠 I'm in progress of learning:</h1>
-
 <p>
 <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/TS.jpg">
 <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/NodeJS.png">
