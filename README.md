@@ -18,6 +18,7 @@ I am:
 <h1> Languages and 🛠 I use:</h1>
 <p style="display:block;">
                 <img alt="JavaScript" style="padding-right:10px;" width="40px" src="img/JS.jpg">
+  <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/TS.jpg">
                 <img  alt="React" align="left" style="padding-right:10px;" width="40px" src="img/React.png" >
                 <img  alt="HTML5" align="left" style="padding-right:10px;" width="40px" src="img/HTML5.png" >
                 <img  alt="CSS3" align="left" style="padding-right:10px;" width="40px" src="img/CSS3.png">
@@ -31,9 +32,9 @@ I am:
 </p>
 <h1> New Languages and 🛠 I'm in progress of learning:</h1>
 <p>
-<img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/TS.jpg">
+
 <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/NodeJS.png">
 <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/Redux.png">
-<img  alt="JavaScript" style="padding-right:10px;" width="40px" src="img/Dokker.png">
+
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
