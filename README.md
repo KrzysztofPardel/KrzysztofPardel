@@ -1,21 +1,19 @@
-# Hi! 👋 I'm Krzysztof Pardel
+# Hi Friend! 👋 I'm Krzysztof Pardel
 
-Driven front-end developer with a background in architecture.
+After six months of commercial experience as a front-end developer, I am looking for more challenges and opportunities to excel in JavaScript, TypeScript, React, Next or Node.
 
-I am:
+◻️ More than 0,5 year of commercial exp. and over 1 year of uncommercial exp.
 
-◻️ Passionate about creating intuitive user experiences,
+◻️ Committed to learning. Backed with certificates.
 
-◻️ Committed to delivering high-quality code and constantly improving my skills through continuous learning,
-
-◻️ Seeking challenging opportunities to develop innovative and impactful software solutions that exceed expectations.
+◻️ Looking for more challenges and opportunities to excel in JavaScript, TypeScript, React, Next or Node.
 
 ---
 
 <!--<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&layout="> -->
 <img width='47%' src="https://github-readme-stats.vercel.app/api?username=KrzysztofPardel&show_icons=true&theme=cobalt">
 <br><br><br><br><br><br><br><br><br>
-<h1> Languages and 🛠 I use:</h1>
+<h1> Languages and Tools I use:</h1>
 <p style="display:block;">
                 <img alt="JavaScript" style="padding-right:10px;" width="40px" src="img/JS.jpg">
   <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/TS.jpg">
@@ -30,11 +28,11 @@ I am:
                 <img  alt="WebPack" align="left" style="padding-right:10px;" width="40px" src="img/WebPack.png">
                 <img  alt="Affinity" style="padding-right:10px;" width="40px" src="img/Affinity.png">
 </p>
-<h1> New Languages and 🛠 I'm in progress of learning:</h1>
+<h1> What I am learning now: Redux , Node.js</h1>
 <p>
-
+  <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/Redux.png">
 <img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/NodeJS.png">
-<img  alt="JavaScript" align="left" style="padding-right:10px;" width="40px" src="img/Redux.png">
+
 
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
