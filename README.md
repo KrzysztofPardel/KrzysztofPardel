@@ -3,11 +3,17 @@
 After six months of commercial experience as a front-end developer, I am looking for more challenges and opportunities to excel in JavaScript, TypeScript, React, Next or Node.
 
 ◻️ TypeScript, React or Node.
+
 ◻️ 0,5 year of commercial experience
+
 ◻️ Diligence, Analytical thinking, Integrity
+
 ◻️ Proactive approach, Growth mindset
+
 ◻️ Collaboration, Presentation, Public Speaking
+
 ◻️ In progress -> Next, Unit Tests
+
 
 ---
 <h1> Languages and Tools I use:</h1>
