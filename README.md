@@ -10,8 +10,7 @@ After six months of commercial experience as a front-end developer, I am looking
 
 ---
 
-<!--<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrzysztofPardel&layout="> -->
-<img width='47%' src="https://github-readme-stats.vercel.app/api?username=KrzysztofPardel&show_icons=true&theme=cobalt">
+
 <br><br><br><br><br><br><br><br><br>
 <h1> Languages and Tools I use:</h1>
 <p style="display:block;">
