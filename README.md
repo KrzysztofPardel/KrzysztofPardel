@@ -1,6 +1,4 @@
-# Hi Friend! 👋 I'm Krzysztof Pardel
-
-After six months of commercial experience as a front-end developer, I am looking for more challenges and opportunities to excel in JavaScript, TypeScript, React, Next or Node.
+Looking forward to be part of a great team and thrive through challenges and opportunities.
 
 ◻️ TypeScript, React or Node.
 
@@ -12,7 +10,7 @@ After six months of commercial experience as a front-end developer, I am looking
 
 ◻️ Collaboration, Presentation, Public Speaking
 
-◻️ In progress -> Next, Unit Tests
+◻️ In progress -> Next, Redux
 
 
 ---
