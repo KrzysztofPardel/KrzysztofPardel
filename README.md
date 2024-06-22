@@ -10,8 +10,6 @@ Looking forward to be part of a great team and thrive through challenges and opp
 
 ◻️ Collaboration, Presentation, Public Speaking
 
-◻️ In progress -> Next, Redux
-
 
 ---
 <h1> Languages and Tools I use:</h1>
