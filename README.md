@@ -2,7 +2,7 @@ Looking forward to be part of a great team and thrive through challenges and opp
 
 ◻️ TypeScript, React or Node.
 
-◻️ 0,5 year of commercial experience
+◻️ 1 year of commercial experience
 
 ◻️ Diligence, Analytical thinking, Integrity
 
